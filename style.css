@@ -1,0 +1,123 @@
+* {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    margin-left: 530px;
+    margin-right: 530px;
+    box-shadow: 0 6px 20px 0 rgb(0, 0, 0);;
+}
+
+#img1 {
+    padding-top: 20px;
+    padding-left: 25px;
+}
+#img2 {
+    float: right;
+    padding-top: 25px;
+    padding-right: 30px;
+}
+#imgtext {
+    margin-left: 20px;
+    font-size: xx-small;
+}
+
+p,h1,h2,h3,h4,hr {
+    margin: 0;
+}
+
+div.safron {
+    margin-top: 10px;
+    background-color: orangered;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+div.green {
+    margin-top: 50px;
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 1px;
+}
+
+#para {
+    margin-top: 15px;
+    font-size: 14px;
+    text-align: center;
+}
+
+div.info {
+    margin-left: 15px;
+    font-size: 12px;
+}
+
+#img3 {
+    margin-left: 60px;
+}
+#img4 {
+    float: right;
+    margin-right: 45px;
+}
+
+div.number {
+    margin-top: 110px;
+    text-align: center;
+    font-size: 17px;
+    line-height: 32px;
+}
+
+span {
+    color: rgb(218,39,55);
+}
+
+hr {
+    border: 1px solid rgb(218,39,55);
+}
+
+#img5 {
+    margin-top: 15px;
+    margin-left: 30px;
+}
+#img6 {
+    margin-left: 45px;
+}
+#img7 {
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+#img8 {
+    float: left;
+    margin-left: 40px;
+}
+
+p.name {
+    font-size: small;
+}
+p.myinfo {
+    font-size: x-small;
+}
+
+div.c_info {
+    position: relative;
+    margin-top: 15px;
+    margin-left: 155px;
+}
+div.c_number {
+    position: relative;
+    margin-top: 90px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+div.footer {
+    text-align: center;
+    padding-bottom: 8px;
+}
+
